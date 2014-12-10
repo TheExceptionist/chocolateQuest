@@ -3,6 +3,7 @@
 
 *And also some fixes by @superpatosainz*
 
+[![Build Status](https://travis-ci.org/superpatosainz/chocolateQuest.svg)](https://travis-ci.org/superpatosainz/chocolateQuest) (not guaranteed to always pass, go look at the travis history for the last passed built)
 
 So, here's the deal:
 =======

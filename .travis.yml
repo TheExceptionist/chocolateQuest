@@ -1,0 +1,7 @@
+language: java
+install: true
+script:
+  - gradle build --refresh-dependencies
+jdk:
+  - oraclejdk7
+  - openjdk6
