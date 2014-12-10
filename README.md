@@ -20,5 +20,8 @@ Build Instructions
  * ./gradlew build
  * Then add the src/assets folder to the .jar gradle built (located at the output/ folder) -- This step was because I didn't bother with automating that part of the process.
 
+## Binaries?
+
+lol I'm not going to bother with distribution, go find a link somewhere or be a man and build it with the instructions above.
 
 Good luck.
