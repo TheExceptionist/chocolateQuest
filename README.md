@@ -1,4 +1,4 @@
-# Chocolate Quest for MC 1.7.10
+# "fixed" Chocolate Quest for MC 1.7.10
 *By Chocolatin*
 
 *And also some fixes by @superpatosainz*
