@@ -11,7 +11,7 @@
 So, here's the deal:
 =======
 
-Chocolatin's long gone and this mod made my world crash every fucking ten seconds (hyperbole much?), so I got up and edited what I needed from this mod myself.
+Chocolatin's long gone and this mod made my world crash every ten seconds (hyperbole much?), so I got up and edited what I needed from this mod myself.
 
 **I'm not going to maintain this mod**, in fact, I hate this codebase with a passion of a thousand burning suns.
 
